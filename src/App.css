@@ -1,0 +1,56 @@
+body{
+    background: #2f2f2f;
+}
+
+.form{
+    width: 98%;
+    margin: 0 auto;
+    margin-top: 2%;
+}
+input[type="text"]{
+    border: none;
+    color: gray;
+    background: #e6e6e6;
+    padding: 5px;
+    width: 80%;
+    box-sizing: border-box;
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 20px;
+    border-top-left-radius: 2px;
+    border-bottom-left-radius: 2px;
+}
+input[type="submit"]{
+    border: none;
+    padding: 5px;
+    font-size: 20px;
+    width: 20%;
+    box-sizing: border-box;
+    border-top-right-radius: 2px;
+    border-bottom-right-radius: 2px;
+    background: #e6b68e;
+    color: white;
+}
+.second{
+    border-style: solid;
+    border-width: 50px 100px 100px 50px;
+    text-align: center;
+    background: #e6e6e6;
+
+}
+.defini{
+    font-style: oblique;
+    font-weight: bolder;
+    color: #777;
+
+}
+.results{
+    margin-bottom: 20px;
+}
+
+.partsch{
+    color: #777;
+    font-style: italic;
+}
+
+
